@@ -1,2 +1,18 @@
+#compiled files and the monstor that node usually is
 node_modules
 bundles
+dist
+
+#compiled sources
+reference
+
+.prettierrc
+.nyc_output
+coverage
+docs
+
+.idea
+
+# Mac stuff
+.DS_Store
+node_modules.nosync
